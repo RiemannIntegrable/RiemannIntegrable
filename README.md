@@ -1,7 +1,7 @@
 # Hi 👋, I'm Miguel!
 ## I'm a beginner/junior data scientist from Colombia
 
-- 🔭 I’m currently working on [Data-analysis-project-in-Pandas-for-the-Juan-de-Castellanos-University-Foundation](https://github.com/RiemannIntegrable/Data-analysis-project-in-Pandas-for-the-Juan-de-Castellanos-University-Foundation.git)
+- 🔭 I’m currently working on [Figuresina](https://github.com/RiemannIntegrable/Figuresina.git)
 
 - 🌱 I’m currently learning **Data science, machine learning and deep learning**
 
