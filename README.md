@@ -3,8 +3,8 @@
 ## 👨‍💻 Mathematician & Data Scientist from Colombia 🇨🇴
 
 - 🎓 I’m currently pursuing a **Master's in Actuarial Science and Quantitative Finance** at the **Universidad Nacional de Colombia**.
-- 🌱 I’m focusing on **Data Science, Machine Learning, Deep Learning**, and **Quantitative Finance**.
-- 📫 Feel free to reach out at **jacunah@unal.edu.co**.
+- 🌱 I’m focusing on **Data Science, Machine Learning, Deep Learning, Actuarial Sciences**, and **Quantitative Finance**.
+- 📫 Feel free to reach out at **jmacunahz.01@gmail.com**.
 
 ## 🌐 Connect with me
 <p align="left">
